@@ -1,0 +1,50 @@
+[
+   {
+      "id":1,
+      "name":" Stephany Justino",
+      "description":"Gerente",
+      "image": "../img/icon-woman.png"
+
+   },
+   {
+      "id":2,
+      "name": "Beatriz Lima ",
+      "description":"Documentação",
+      "image": "../img/icon-woman.png"
+
+   },
+   {
+      "id":3,
+      "name":"Lucas Valim",
+      "description":"Designer",
+      "image": "../img/icon-man.png"
+
+   },
+   {
+      "id":4,
+      "name":"Raquel Silva",
+      "description":"Desenvolvedora Front-End",
+      "image": "../img/icon-woman.png"
+
+   },
+   {
+      "id":5,
+      "name":"Eliane Cabral ",
+      "description":"Profissional do Banco de Dados",
+      "image": "../img/icon-woman.png"
+
+   },
+   {
+      "id":6,
+      "name":"Renan dos Anjos",
+      "description":"Desenvolvedor Back-End",
+      "image": "../img/icon-man.png"
+   },
+   {
+      "id":7,
+      "name":"Vitor Hugo",
+      "description":"Desenvolvedor Back-End",
+      "image": "../img/icon-man.png"
+
+   }
+]
